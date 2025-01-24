@@ -185,7 +185,7 @@ Os mais atualizados e úteis são:
 * [Tool](https://github.com/TheDudeFromCI/mineflayer-tool) - Plugin com uma API de alto nível para selecionar automaticamente a melhor arma/ferramenta.
 * [Hawkeye](https://github.com/sefirosweb/minecraftHawkEye) - Plugin para mirar automaticamente com arcos.
 
-Mas também dê uma olhada em:
+Mas também dê uma olhada em:h
 
 * [radar](https://github.com/andrewrk/mineflayer-radar/) - interface de radar na web usando canvas e socket.io [Demo no Youtube](https://www.youtube.com/watch?v=FjDmAfcVulQ)
 * [blockfinder](https://github.com/Darthfett/mineflayer-blockFinder) - encontra blocos no mundo tridimensional
